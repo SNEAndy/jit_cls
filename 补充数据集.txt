@@ -1,0 +1,6 @@
+补充数据集：
+1.BUS-UCLM: Breast ultrasound lesion segmentation dataset 链接：https://www.nature.com/articles/s41597-025-04562-3 https://github.com/noeliavallez/BUS-UCLM-Dataset
+2.Breast Ultrasound Images Dataset (Dataset BUSI) 链接：https://scholar.cu.edu.eg/?q=afahmy/pages/dataset
+3.breastcanc-ultrasound-class  链接：https://hf-mirror.com/datasets/as-cle-bert/breastcanc-ultrasound-class
+4.ODELIA-Challenge-2025 链接：https://huggingface.co/datasets/ODELIA-AI/ODELIA-Challenge-2025
+5.BrEaST-Lesions_USG 链接：https://www.cancerimagingarchive.net/collection/breast-lesions-usg/#citations_%22Download_link%22
